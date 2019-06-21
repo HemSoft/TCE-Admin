@@ -16,7 +16,7 @@
             }
             var myReq = WebRequest.Create(url);
             // TODO: Extract key to AppSecrets.config
-            var credentials = "Authorization: Bearer keyXFalmuZmQdnwiV";
+            var credentials = Config.AirtableKey;
             var mycache = new CredentialCache();
             myReq.Headers.Add(credentials);
             var wr = myReq.GetResponse();

@@ -1,6 +1,7 @@
 ﻿namespace HemSoft.TCE.Forms
 {
     using System;
+    using System.Collections.Generic;
     using System.Linq;
     using System.Windows.Forms;
 
@@ -8,6 +9,8 @@
 
     public partial class MainForm : Form
     {
+        public List<BuyerMaster> Buyers;
+
         public MainForm()
         {
             InitializeComponent();
@@ -15,8 +18,18 @@
 
         private void MainForm_Load(object sender, EventArgs e)
         {
-            var buyers = BuyerManager.GetAllBuyerMasters();
-            tsLabel.Text = $@"{ buyers.Count() } buyers.";
+            RefreshData();
+            UpdateStatusStrip();
+        }
+
+        private void RefreshData()
+        {
+            Buyers = BuyerManager.GetAllBuyerMasters();
+        }
+
+        private void UpdateStatusStrip()
+        {
+            tsLabel.Text = $@"{ Buyers.Count() } buyers.";
         }
     }
 }
