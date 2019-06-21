@@ -1,0 +1,13 @@
+D:\OneDrive\Projects\TCE\TCE Admin\TCE Admin\obj\Debug\TCE Admin.csprojAssemblyReference.cache
+D:\OneDrive\Projects\TCE\TCE Admin\TCE Admin\obj\Debug\HemSoft.TCE.Forms.MainForm.resources
+D:\OneDrive\Projects\TCE\TCE Admin\TCE Admin\obj\Debug\HemSoft.TCE.Properties.Resources.resources
+D:\OneDrive\Projects\TCE\TCE Admin\TCE Admin\obj\Debug\TCE Admin.csproj.GenerateResource.cache
+D:\OneDrive\Projects\TCE\TCE Admin\TCE Admin\obj\Debug\TCE Admin.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\TCE\TCE Admin\TCE Admin\bin\Debug\TCE Admin.exe.config
+D:\OneDrive\Projects\TCE\TCE Admin\TCE Admin\bin\Debug\TCE Admin.exe
+D:\OneDrive\Projects\TCE\TCE Admin\TCE Admin\bin\Debug\TCE Admin.pdb
+D:\OneDrive\Projects\TCE\TCE Admin\TCE Admin\bin\Debug\Newtonsoft.Json.dll
+D:\OneDrive\Projects\TCE\TCE Admin\TCE Admin\bin\Debug\Newtonsoft.Json.xml
+D:\OneDrive\Projects\TCE\TCE Admin\TCE Admin\obj\Debug\TCE Admin.csproj.CopyComplete
+D:\OneDrive\Projects\TCE\TCE Admin\TCE Admin\obj\Debug\TCE Admin.exe
+D:\OneDrive\Projects\TCE\TCE Admin\TCE Admin\obj\Debug\TCE Admin.pdb
